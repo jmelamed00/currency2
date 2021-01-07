@@ -1,3 +1,4 @@
+// Now on main.
 import React, { useEffect, useState } from 'react';
 import './App.css';
 import CurrencyRow from './CurrencyRow.js';
